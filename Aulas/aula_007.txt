@@ -1,5 +1,0 @@
-Ordem de precedencia de operadores aritmedicos
-()
-**
-*, /, //, %
-+, -
